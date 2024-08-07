@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Nitzan Papini
-🎯 I love writing product-oriented software,<br>🌍 And cool techy stuff in general<br><br>🌱 I’m currently delving into Go in the backend,<br>🌱 Next.js & Typescript in the frontend, <br>📱Flutter & dart for anything mobile,<br>💡And software architecture & design
+🎯 I love writing product-oriented software,<br>🌍 And cool techy stuff in general<br><br>🌱 I’m currently delving into Go in the backend,<br>🌱 Next.js & Typescript in the frontend, <br>📱Flutter & dart for anything mobile,<br>☁️Terraform for IaC,<br>💡And software architecture & design
 
 
 ## 🌐 Socials:
